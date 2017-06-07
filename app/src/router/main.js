@@ -89,8 +89,8 @@ class Main extends Component {
 
 					<br /><br />
 					Наши контакты:<br />
-						Тел.: +38093xxxxxxx<br />
-						E-mail: coolworld@coolworld.com
+						Тел.: +38-067-230-86-15<br />
+						E-mail: olegsherbak@ukr.net
 					<br /><br />
 					Будем рады сотрудничать!<hr />
 				</div>
