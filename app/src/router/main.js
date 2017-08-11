@@ -89,14 +89,16 @@ class Main extends Component {
 
 					<br /><br />
 					Наши контакты:<br />
-						Тел.: +38-067-230-86-15<br />
-						E-mail: olegsherbak@ukr.net
-					<br /><br />
+						E-mail: wintermute2009@ukr.net
+					<br />
 					Будем рады сотрудничать!<hr />
 				</div>
 			</div>
 		)
     }
 }
-
+/*
+	Тел.: +38-067-230-86-15<br />
+	E-mail: olegsherbak@ukr.net
+*/
 export default Main;
